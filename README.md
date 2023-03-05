@@ -12,6 +12,21 @@ If you're looking to streamline your Laravel development workflow, Docker is a g
 ### Eloquent
 Eloquent is Laravel's ORM (Object Relational Mapper) and is one of the most powerful features of the framework. Our [Eloquent tips](https://laraveltips.io/category/laravel-eloquent/) cover everything from basic CRUD operations to more advanced features like querying and relationships.
 
+### PHP
+Our [PHP tips for Laravel](https://laraveltips.io/category/php) cover best practices for writing clean, efficient PHP code in Laravel.
+
+### Models
+Laravel's models are a powerful tool for working with data. Our [model tips for Laravel](https://laraveltips.io/category/models) cover everything from basic model usage to more advanced topics like relationships and querying.
+
+### Helpers
+Laravel provides a variety of helper functions that can streamline your development process. Our [helper tips for Laravel](https://laraveltips.io/category/helpers) cover some of the most useful helper functions and how to use them.
+
+### Laravel Updates
+Laravel is constantly evolving, with new features and improvements added in each update. Our [Laravel update tips](https://laraveltips.io/category/laravel-updates) cover the latest updates and how to take advantage of the new features.
+
+### MySQL
+MySQL is one of the most popular databases for Laravel applications. Our [MySQL tips for Laravel](https://laraveltips.io/category/mysql) cover best practices for working with MySQL in Laravel.
+
 ### Security
 Security is always a top concern when building web applications. Our [security tips for Laravel](https://laraveltips.io/category/security/) cover best practices for securing your Laravel application, including protecting against SQL injection and cross-site scripting (XSS) attacks.
 
