@@ -46,3 +46,6 @@ In addition to our tips and resources, we also have a vibrant community of Larav
 1. Make Model Cheatsheet [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/php-artisan-make-model-cheatsheet.md)
 
 2. Laravel with Docker [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/how-to-simplify-laravel-development-with-docker.md)
+
+3. Laravel Best Practices: Limiting env Calls to Config Files for Better Performance and Stability
+ [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/limiting-env-calls-to-config-files-for-better-performance-and-stability.md)
