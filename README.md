@@ -43,7 +43,7 @@ In addition to our tips and resources, we also have a vibrant community of Larav
 
 ## Index
 
-1. Make Model Cheatsheet [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/php-artisan-make-model-cheatsheet.md)
+1. Make Model Cheatsheet [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/tips/php-artisan-make-model-cheatsheet.md)
 
 2. Laravel with Docker [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/how-to-simplify-laravel-development-with-docker.md)
 
