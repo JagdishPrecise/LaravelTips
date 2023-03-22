@@ -45,10 +45,10 @@ In addition to our tips and resources, we also have a vibrant community of Larav
 
 1. Make Model Cheatsheet [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/tips/php-artisan-make-model-cheatsheet.md)
 
-2. Laravel with Docker [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/how-to-simplify-laravel-development-with-docker.md)
+2. Laravel with Docker [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/tips/how-to-simplify-laravel-development-with-docker.md)
 
 3. Laravel Best Practices: Limiting env Calls to Config Files for Better Performance and Stability
- [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/limiting-env-calls-to-config-files-for-better-performance-and-stability.md)
+ [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/tips/limiting-env-calls-to-config-files-for-better-performance-and-stability.md)
 
 4. How to Define Eloquent Foreign Keys in Laravel: Tips and Tricks
- [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/how-to-define-eloquent-foreign-keys-in-laravel-tips-and-tricks.md)
+ [Read More](https://github.com/JagdishPrecise/LaravelTips/blob/main/tips/how-to-define-eloquent-foreign-keys-in-laravel-tips-and-tricks.md)
