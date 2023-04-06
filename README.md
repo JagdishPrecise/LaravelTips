@@ -38,7 +38,7 @@ If you're new to Laravel or need a quick reference guide, our [Laravel cheat she
 
 ## Join Our Community
 
-In addition to our tips and resources, we also have a vibrant community of Laravel developers who are always willing to help and answer your questions. Join us on [Instagram (laravel.tips)](https://www.instagram.com/laravel.tips/) and be a part of the conversation!
+In addition to our tips and resources, we also have a vibrant community of Laravel developers who are always willing to help and answer your questions. Join us on [Instagram (laraveltips.io)](https://www.instagram.com/laraveltips.io/) and be a part of the conversation!
 
 
 ## Index
