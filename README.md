@@ -2,8 +2,9 @@
 
 LaravelTips.io is your go-to source for the latest and most useful tips and tricks for Laravel. Whether you're a beginner or an advanced user, we have something for everyone.
 
-With over 10,000 active users, our website and Instagram page (laravel.tips) are the best places to find curated content on Laravel. Our team of experts scours the internet to find the most relevant and useful tips for Laravel, so you don't have to.
+With over 10,000 active users, our website and Instagram page (laraveltips.io) are the best places to find curated content on Laravel. Our team of experts scours the internet to find the most relevant and useful tips for Laravel, so you don't have to.
 
+##laravel.tips is now laraveltips.io
 ## Recent Laravel Tips
 
 ### Docker
