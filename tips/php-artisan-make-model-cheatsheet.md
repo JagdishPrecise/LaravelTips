@@ -16,6 +16,7 @@ For example, if you want to generate a model with a migration and a factory, you
 php artisan make:model Post --migration --factory
 
 
+
 This will generate a `Post` model, a migration file for the `posts` table, and a factory for the `Post` model.
 
 Using these additional flags can save you time and help streamline your development workflow. For more information on generating models in Laravel, check out the [read more](https://laraveltips.io/did-you-know-that-when-generating-a-model-using-php-artisan-make-model-you-can-add-additional-flags-to-include-extra-features/).
